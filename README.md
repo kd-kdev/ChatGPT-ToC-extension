@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ChatGPT ToC Chrome Extension
 
 Available in Chrome Web Store: https://chromewebstore.google.com/detail/chatgpt-toc/lhfkkjmamambkahjkgiacmkkjngnngin
@@ -9,3 +10,8 @@ ChatGPT Table of Contents is a simple, lightweight extension that seamlessly int
 Without adding clutter or complicated settings, it automatically generates a clean, easy-to-navigate table of contents for any chat.
 
 Users can instantly jump to any question, answer, or section in long conversations, saving time and avoiding endless scrolling. Its simplicity makes managing, revisiting, and referencing information effortless, enhancing your ChatGPT experience without changing how you use it.
+=======
+# ChatGPT ToC Chrome Extension
+
+Chrome extension that adds a table of contents to ChatGPT chats.
+>>>>>>> 3f39d02 (code reformat for readability)
